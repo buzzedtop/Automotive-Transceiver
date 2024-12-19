@@ -1,1 +1,58 @@
-
+{
+  "pin01" {
+    "color": "bluee",
+    "signal": "power antenna 12v"
+  },
+  "pin02" {
+    "color": "blue/white",
+    "signal": "amplifier 12v"
+  },
+  "pin03" {
+    "color": "orange/white",
+    "signal": "illumination"
+  },
+  "pin04" {
+    "color": "yellow",
+    "signal": "battery 12v"
+  },
+  "pin05" {
+    "color": "red",
+    "signal": "ignition 12v"
+  },
+  "pin06" {
+    "color": "black",
+    "signal": "ground"
+  },
+  "pin07" {
+    "color": "gray",
+    "signal": "front speaker right"
+  },
+  "pin08" {
+    "color": "grey/black",
+    "signal": "front speaker right"
+  },
+  "pin09" {
+    "color": "white",
+    "signal": "front speaker left"
+  },
+  "pin10" {
+    "color": "white/black",
+    "signal": "front speaker left"
+  },
+  "pin11" {
+    "color": "purple",
+    "signal": "rear speaker right"
+  },
+  "pin12" {
+    "color": "purple/black",
+    "signal": "rear speaker right"
+  },
+  "pin13" {
+    "color": "greeen",
+    "signal": "rear speaker left"
+  },
+  "pin14" {
+    "color": "green/black",
+    "signal": "rear speaker left"
+  }
+}
